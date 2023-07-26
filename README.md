@@ -63,7 +63,7 @@ In the root project directory create a `README.MD` file with the following secti
 
 - HTTP server must be written in **Go**.
 - HTML templates must be in the project root directory *templates*.
-- The code must respect the good [practices](https://01.alem.school/git/root/public/src/branch/master/subjects/good-practices/README.md).
+- The code must respect the [good practices](https://01.alem.school/git/root/public/src/branch/master/subjects/good-practices/README.md).
 
 ## Allowed packages
 
